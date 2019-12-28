@@ -18,9 +18,9 @@ body {
 }
 
 .term-title, .block-item {
-  width: 200px;
   border: solid 2px;
   padding: 10px;
+  width: 250px;
 }
 
 .year-title, .block-title {

@@ -20,31 +20,31 @@
             </div>
             <div class="block">
                 <div class="block-title">Block 1</div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
             </div>
             <div class="block">
                 <div class="block-title">Block 2</div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
             </div>
             <div class="block">
                 <div class="block-title">Block 3</div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
             </div>
             <div class="block">
                 <div class="block-title">Block 4</div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
             </div>
         </div>
     </div>
@@ -59,31 +59,31 @@
             </div>
             <div class="block">
                 <div class="block-title">Block 1</div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
             </div>
             <div class="block">
                 <div class="block-title">Block 2</div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
             </div>
             <div class="block">
                 <div class="block-title">Block 3</div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
             </div>
             <div class="block">
                 <div class="block-title">Block 4</div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
             </div>
         </div>
     </div>
@@ -98,31 +98,31 @@
             </div>
             <div class="block">
                 <div class="block-title">Block 1</div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
             </div>
             <div class="block">
                 <div class="block-title">Block 2</div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
             </div>
             <div class="block">
                 <div class="block-title">Block 3</div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
             </div>
             <div class="block">
                 <div class="block-title">Block 4</div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
             </div>
         </div>
     </div>
@@ -137,33 +137,34 @@
             </div>
             <div class="block">
                 <div class="block-title">Block 1</div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
             </div>
             <div class="block">
                 <div class="block-title">Block 2</div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
             </div>
             <div class="block">
                 <div class="block-title">Block 3</div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
             </div>
             <div class="block">
                 <div class="block-title">Block 4</div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
-                <div class="block-item" contenteditable="true"></div>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
+                <input class="block-item" maxlength="30"></input>
             </div>
         </div>
+    </div>
     </div>
     <?php
         $jsonFile = file_get_contents("./js/data.json");
@@ -179,7 +180,7 @@
             window.location.href = "http://localhost:5500/save.php?data=" + stringedObj;
         });
         document.querySelectorAll(".block-item").forEach((item, index) => {
-            item.textContent = jsonData[index].class;
+            item.value = jsonData[index].class;
         });
     </script>
 </body>
