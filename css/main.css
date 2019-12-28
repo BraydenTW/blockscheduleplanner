@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.schedule {
+  margin: 20px;
+}
+
+.schedule-grid {
+  display: inline;
+}
+
+.term, .block {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.term-title, .block-item {
+  width: 200px;
+  border: solid 2px;
+  padding: 10px;
+}
+
+.year-title, .block-title {
+  width: 100px;
+}
+/*# sourceMappingURL=main.css.map */

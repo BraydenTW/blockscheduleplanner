@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.schedule{
+    margin: 20px;
+}
+
+.schedule-grid{
+    display: inline;
+}
+
+.term, .block{
+    display: flex;
+}
+
+.term{
+
+}
+
+.term-title, .block-item{
+    width: 200px;
+    border: solid 2px;
+    padding: 10px;
+}
+
+.term-title{
+
+}
+
+.block{
+    
+}
+
+.block-item{
+}
+
+.year-title, .block-title{
+    width: 100px;
+}
+
